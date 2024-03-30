@@ -1,5 +1,12 @@
-### Hi there 👋
+### Boness 👋
 
+- Som en Pere Joan
+- Actualment estudii Ingenieria Informàtica a la Universitat de les Illes Balears l'itinerari de Intel·ligència Artificial i Computació.
+- Tenc interès en la IA, la Data Science i la informàtica gràfica.
+- A aquest perfil hi trobareu els meus projectes de carrera i personals.
+
+- :blue_book: llenguatges i eines:
+- Python, C++, OpenGL, Java, Assembly, Javascript, Css, Html, Bootstrap
 <!--
 **enVives/enVives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
